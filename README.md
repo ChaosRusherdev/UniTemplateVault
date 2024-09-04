@@ -11,15 +11,16 @@ is this prefix. So id recommend to use my system.
 
 My intended folder structure looks like this:
 
-1_<>NAME OF TOPIC<> 
-  1<>NAME OF SUBTOPIC<> **The 1 in here is just used cause obsidian will put the smallest nr first.**
+1_NAME OF TOPIC
+  1NAME OF SUBTOPIC
+  **The 1 in here is just used cause obsidian will put the smallest nr first.**
   
-2_<>NAME OF TOPIC<>
-  2<>NAME OF SUBTOPIC<>
-  4<>NAME OF SUBTOPIC<>
+2_NAME OF TOPIC
+  2NAME OF SUBTOPIC
+  4NAME OF SUBTOPIC
   
-3_<>NAME OF TOPIC<>
-  3<>NAME OF SUBTOPIC<>
+3_NAME OF TOPIC
+  3NAME OF SUBTOPIC
 
 99_Quick Notes
 
@@ -56,7 +57,8 @@ At last you will get a prompt for the topic. This will be a folder in the main f
 If the folder doesnt already exist, it will create it for you. I like to do something like this:
 
 1_Main Topic
-  1_Subtopic **The 1_ in the Subtopic isnt a prefix, i just put this there so my folders dont get sorted by name**
+  1_Subtopic 
+  **The 1_ in the Subtopic isnt a prefix, i just put this there so my folders dont get sorted by name**
   2_Subtopic
   3_Subtopic
 
