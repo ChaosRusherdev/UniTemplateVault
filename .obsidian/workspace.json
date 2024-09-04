@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "596c2d786a635b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d843a5a49dc9ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3212b887d6e272ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d830d41811fcba8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f53024bacebaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50a01fcada62b65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee021820a530e328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf36103b809f22af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "f74e6024c9c38b4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b7ad1bf08cad84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c256e5b09748e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0aac5512580a658a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4a6690cd9a22015",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0cdfe5ad06953956",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3212b887d6e272ff",
+  "lastOpenFiles": [
+    "z_ressources/templates/lecture_template_excalidraw.md",
+    "99_Sonstiges",
+    "z_ressources/images",
+    "z_ressources/templates/lecture_template.md",
+    "1_Beispiel/Topic1/3-9-2024/Draw_Topic1_17-6.excalidraw.md",
+    "Untitled.md",
+    "Dashboard.md",
+    "1_Beispiel/Topic1/3-9-2024",
+    "1_Beispiel/Topic1/3-9-2024/ttt_Topic1_17-5.md.md",
+    "Topic1/3-9-2024",
+    "Topic1",
+    "2_Beispiel",
+    "1_Beispiel",
+    "z_ressources/templates/lecture_note.excalidraw.md",
+    "z_ressources/templates/lecture_template 1.md",
+    "1_Beispiel/Topic1/3-9-2024/t_Topic1_16-56.md.md",
+    "2_Beispiel/Topic3",
+    "2_Beispiel/Topic2",
+    "1_Beispiel/Topic1",
+    "1_topic/Topic1/thn_Topic1_16-53.md.md",
+    "null/3-9-2024/null_null_16-52.excalidraw.md",
+    "1_topic/thing_Topic1_16-51.md.md",
+    "thing2/3-9-2024/1_thing2_16-52.excalidraw.md",
+    "y_calendar/Klausur_Kp_19-10-2024_10-30.md",
+    "z_ressources/templates/date_template.md",
+    "Topic1/3-9-2024/ttt_Topic1_16-12.excalidraw.md",
+    "Topic1/3-9-2024/ttt_Topic1_16-11.excalidraw.md",
+    "Topic1/3-9-2024/test_Topic1_16-4.excalidraw.md",
+    "Topic1/3-9-2024/t_Topic1_16-9.excalidraw.md",
+    "newLecture.excalidraw.md",
+    "newNote.md",
+    "null/3-9-2024/null_null_16-1.excalidraw.md",
+    "Topic1/3-9-2024/t_Topic1_16-0.excalidraw.md",
+    "Topic1/3-9-2024/test_Topic1_15;59.excalidraw.md",
+    "newNote 1.md"
+  ]
+}
