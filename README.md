@@ -11,22 +11,21 @@ is this prefix. So id recommend to use my system.
 
 My intended folder structure looks like this:
 
-1_NAME OF TOPIC
-  1NAME OF SUBTOPIC
+1_NAME OF TOPIC    
+  /1_NAME OF SUBTOPIC
   **The 1 in here is just used cause obsidian will put the smallest nr first.**
-  
-2_NAME OF TOPIC
-  2NAME OF SUBTOPIC
-  4NAME OF SUBTOPIC
-  
-3_NAME OF TOPIC
-  3NAME OF SUBTOPIC
+
+2_NAME OF TOPIC  
+  /2_NAME OF SUBTOPIC  
+  /4_NAME OF SUBTOPIC
+
+3_NAME OF TOPIC  
+  /3_NAME OF SUBTOPIC
 
 99_Quick Notes
 
-z_ressources
-  ...
-
+z_ressources  
+  /...
 
 ## How to create a new note / folder:
 
@@ -56,11 +55,12 @@ After that you will get promted to give your file a name. Feel free to choose wh
 At last you will get a prompt for the topic. This will be a folder in the main folder with your specified prefix.
 If the folder doesnt already exist, it will create it for you. I like to do something like this:
 
-1_Main Topic
-  1_Subtopic 
+1_Main Topic  
+  /1_Subtopic  
   **The 1_ in the Subtopic isnt a prefix, i just put this there so my folders dont get sorted by name**
-  2_Subtopic
-  3_Subtopic
+    
+  /2_Subtopic  
+  /3_Subtopic
 
 And now you are finally done. Just open your desired file and do stuff lol. It will be in your specified sub folder of 
 the main folder you specified. In the sub folder there will be another folder which has the date of the file creation as its name.
