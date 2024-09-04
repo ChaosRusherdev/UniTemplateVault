@@ -42,12 +42,12 @@ id: ""
 style: default
 actions:
   - type: open
-    link: https://oc-digital.de/node/6100
+    link: https://example.com
 
 ```
 
 ```meta-bind-button
-label: Mathe Grundlagen
+label: The specific course ur using this vault for
 icon: ""
 hidden: false
 class: ""
@@ -56,7 +56,7 @@ id: ""
 style: default
 actions:
   - type: open
-    link: https://lms.fom.de/course/view.php?id=21788
+    link: https://www.youtube.com/watch?v=xvFZjo5PgG0
 
 ```
 
@@ -70,8 +70,7 @@ id: ""
 style: default
 actions:
   - type: open
-    link: https://lms.fom.de/pluginfile.php/447865/mod_resource/content/1/Mathe%20BWI%20Studierendenversion%20WS23.pdf
-
+    link: https://example.com
 ```
 
 ------------------------------------
